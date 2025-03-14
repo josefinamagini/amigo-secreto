@@ -13,6 +13,6 @@
 
 * <ins>Sorteo aleatorio</ins>: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-* <ins>Estado de proyecto</ins>: **En construcción** :construction:
+* <ins>Estado de proyecto</ins>: **Finalizado** :heavy_check_mark:
 * URL: Missing
 </p>
